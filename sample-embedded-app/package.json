@@ -15,7 +15,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@shopify/koa-shopify-auth": "^3.1.65",
+    "@shopify/koa-shopify-auth": "^3.1.66",
     "core-util-is": "^1.0.2",
     "dotenv": "^8.2.0",
     "isomorphic-fetch": "^2.2.1",
