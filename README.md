@@ -1,10 +1,10 @@
 # shopify-sample-app
 
-## Build: https://shopify.dev/tutorials/build-a-shopify-app-with-node-and-react/
+Build: https://shopify.dev/tutorials/build-a-shopify-app-with-node-and-react/
 
-## Deploy: https://www.shopify.co.uk/partners/blog/deploy-website
+Deploy: https://www.shopify.co.uk/partners/blog/deploy-website
 
-## Install: https://www.shopify.co.uk/partners/blog/17056443-how-to-generate-a-shopify-api-token 
+Install: https://www.shopify.co.uk/partners/blog/17056443-how-to-generate-a-shopify-api-token 
 
 # Progress
 
